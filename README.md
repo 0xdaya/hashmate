@@ -1,6 +1,6 @@
 # Hashmate
 
-Hasmate is a simple hash lookup utility written in python3
+Hasmate is a simple hash lookup utility written in python3, currently suppports md5, sha1, sha256 and sha512.
 
 ## Installation
 ```
