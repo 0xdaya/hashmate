@@ -24,4 +24,27 @@ Hasmate is a simple hash lookup utility for most common hashes, written in pytho
 2. chmod 770 hash.py
 3. ./hash.py
 ```
+## Sample Output:- 
+### Running in Windows Git-Bash
+
+```
+$ python hash.py
+ _   _    _    ____  _   _ __  __    _  _____ _____
+| | | |  / \  / ___|| | | |  \/  |  / \|_   _| ____|
+| |_| | / _ \ \___ \| |_| | |\/| | / _ \ | | |  _|
+|  _  |/ ___ \ ___) |  _  | |  | |/ ___ \| | | |___
+|_| |_/_/   \_\____/|_| |_|_|  |_/_/   \_\_| |_____|
+
+
+Which hashing function you want to compute?
+1. md5
+2. sha1
+3. sha256
+4. sha512
+Enter your choice: 1
+Now enter the string to be hashed:A75tiy6hj
+a71da17223a77511a7dce268790f7c19
+
+Do you want to continue(y/n): n
+```
 ## This script is only compatible with Python 3.x
