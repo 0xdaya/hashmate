@@ -43,7 +43,7 @@ Which hashing function you want to compute?
 4. sha512
 Enter your choice: 1
 Now enter the string to be hashed:A75tiy6hj
-a71da17223a77511a7dce268790f7c19
+c2d230477509aa707f88d69bddd94abd
 
 Do you want to continue(y/n): n
 ```
