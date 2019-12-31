@@ -4,7 +4,7 @@ Hasmate is a simple and interactive hash lookup utility for most common hashes, 
 
 ## Installation
 ```
- git clone https://github.com/dayanandpathak/hashmate.git
+ git clone https://github.com/0xdaya/hashmate.git
 ```
 # 
 
